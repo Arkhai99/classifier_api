@@ -1,5 +1,3 @@
 fastapi[all]
 supabase
-pickle
-os
 scikit-learn
